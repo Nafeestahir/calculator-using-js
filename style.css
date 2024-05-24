@@ -1,0 +1,32 @@
+.container {
+    width: 100%;
+    max-width: 1320px;
+    padding: 0 15px;
+    margin: 0 auto;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-block {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 19px;
+}
+
+.btn-block button {
+    padding: 9px 30px;
+    border: none;
+    font-size: 30px;
+}
+
+.btn-block #demo {
+    width: 421px;
+    height: 43px;
+    font-size: 36px;
+}
+.calculator{
+    padding: 20px;
+    background-color: black;
+}
